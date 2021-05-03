@@ -1,21 +1,21 @@
 # Blood Bank Management System
 ## Screenshots
 ### Homepage
-![homepage snap](https://github.com/vijai2504/bloodbankmanagement/blob/master/static/screenshot/homepage.png?raw=true)
+![homepage snap](https://github.com/vijai2504/Blood-donor---django/blob/master/static/screenshot/homepage.png?raw=true)
 ### Admin Dashboard
-![dashboard snap](https://github.com/vijai2504/bloodbankmanagement/blob/master/static/screenshot/admindashboard.png?raw=true)
+![dashboard snap](https://github.com/vijai2504/Blood-donor---django/blob/master/static/screenshot/admindashboard.png?raw=true)
 ### Blood Donation 
-![invoice snap](https://github.com/vijai2504/bloodbankmanagement/blob/master/static/screenshot/blooddonation.png?raw=true)
+![invoice snap](https://github.com/vijai2504/Blood-donor---django/blob/master/static/screenshot/blooddonation.png?raw=true)
 ### Blood Request
-![doctor snap](https://github.com/vijai2504/bloodbankmanagement/blob/master/static/screenshot/bloodrequest.png?raw=true)
+![doctor snap](https://github.com/vijai2504/Blood-donor---django/blob/master/static/screenshot/bloodrequest.png?raw=true)
 ### Blood Request
-![doctor snap](https://github.com/vijai2504/bloodbankmanagement/blob/master/static/screenshot/bloodrequest.png?raw=true)
+![doctor snap](https://github.com/vijai2504/Blood-donor---django/blob/master/static/screenshot/bloodrequest.png?raw=true)
 ### Donor Details
-![doctor snap](https://github.com/vijai2504/bloodbankmanagement/blob/master/static/screenshot/donordetails.png?raw=true)
+![doctor snap](https://github.com/vijai2504/Blood-donor---django/blob/master/static/screenshot/donordetails.png?raw=true)
 ### Guildlines
-![doctor snap](https://github.com/vijai2504/bloodbankmanagement/blob/master/static/screenshot/guidlines.png?raw=true)
+![doctor snap](https://github.com/vijai2504/Blood-donor---django/blob/master/static/screenshot/guidlines.png?raw=true)
 ### Logout
-![doctor snap](https://github.com/vijai2504/bloodbankmanagement/blob/master/static/screenshot/logout.png?raw=true)
+![doctor snap](https://github.com/vijai2504/Blood-donor---django/blob/master/static/screenshot/logout.png?raw=true)
 ---
 ## Functions
 
