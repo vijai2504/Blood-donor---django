@@ -8,8 +8,6 @@
 ![invoice snap](https://github.com/vijai2504/Blood-donor---django/blob/master/static/screenshot/blooddonation.png?raw=true)
 ### Blood Request
 ![doctor snap](https://github.com/vijai2504/Blood-donor---django/blob/master/static/screenshot/bloodrequest.png?raw=true)
-### Blood Request
-![doctor snap](https://github.com/vijai2504/Blood-donor---django/blob/master/static/screenshot/bloodrequest.png?raw=true)
 ### Donor Details
 ![doctor snap](https://github.com/vijai2504/Blood-donor---django/blob/master/static/screenshot/donordetails.png?raw=true)
 ### Guildlines
